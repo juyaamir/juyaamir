@@ -1,8 +1,13 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 36px; color: #4CAF50; background: linear-gradient(90deg, rgba(0,255,0,0.2), rgba(255,0,0,0.2)); padding: 10px;">
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d7aa3&height=120&section=header"/>
+</a>
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 36px;  background: linear-gradient(90deg, rgba(0,255,0,0.2), rgba(255,0,0,0.2)); padding: 10px;">
   Hi there 👋, I'm Amir Juya
 </h1>
 
-<h3 align="center">A passionate Full-stack Web Developer based in Germany</h3> 
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d7aa3&size=35&center=true&vCenter=true&width=1000&lines=Welcome+To+My+GitHub+Profile;I'm+a+Full+stsck+Developer)
 <img src="https://github.com/user-attachments/assets/4ce6eb25-b7d8-4107-9159-534789354477" alt="coding" align="right" height="300" width="500" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juyaamir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 <p align="left">🌐 Check out my portfolio: <a href="https://juyaamir.github.io/portfolio/">My Portfolio</a></p>
@@ -74,5 +79,9 @@
   </div>
 
 </div>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d7aa3&height=120&section=footer"/>
+</a>
 
 
