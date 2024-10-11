@@ -1,9 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Juya</h1> 
+<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 36; color: #4CAF50;">
+  Hi there 👋, I'm Juya
+</h1>
+
+
 <h3 align="center">A passionate Full-stack Web Developer based in Germany</h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juyaamir&label=Profile%20views&color=0e75b6&style=flat" alt="juyaamir" /> </p>
-🌐 Check out my portfolio: https://github.com/juyaamir
+🌐 Check out my portfolio: https://juyaamir.github.io/portfolio/
 <br>
 📫 Reach me at: juyaamirm@gmail.com
+
+
 <br>
 <img src="https://github.com/user-attachments/assets/4ce6eb25-b7d8-4107-9159-534789354477" alt="coding" align="right" height="280" width="500" />
 
@@ -18,7 +24,7 @@
 <br>
 <h3 align="left">GitHub Stats:</h3>  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;gap: 6">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-tems: center; gap: 8">
   <img src="https://github-readme-stats.vercel.app/api?username=juyaamir&show_icons=true&locale=en" alt="GitHub Stats" style="width: 48%; min-width: 300px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juyaamir&" alt="GitHub Streak" style="width: 48%; min-width: 300px;" />
 </div>
